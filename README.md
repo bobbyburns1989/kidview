@@ -15,7 +15,7 @@ KidView is a safe and educational video platform for children, designed to provi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kidview.git
+git clone https://github.com/bobbyburns1989/kidview.git
 
 # Navigate to the project directory
 cd kidview
