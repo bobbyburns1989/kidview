@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088795641453",
+    "project_id": "kidview-7b938",
+    "storage_bucket": "kidview-7b938.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088795641453:android:5b18903677b68d957e2164",
+        "android_client_info": {
+          "package_name": "com.kidview.kidview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsuZwdCWO17eJLNXljefRMI1bDU2oCcBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
